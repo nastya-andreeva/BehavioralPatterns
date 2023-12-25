@@ -7,6 +7,6 @@ import java.util.List;
 public interface Strategy {
 
     @NotNull
-    String process(@NotNull List<String> stings);
+    String process(@NotNull List<String> strings);
 
 }
